@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #200772;
+    color: white;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #f70cf7;
+    padding: 10px;
+}
